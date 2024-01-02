@@ -1,0 +1,292 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "choices": [ "Berlin", "Paris", "Madrid", "Rome", "Tuzla", "Vienna" ],
+    "answer": "paris",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which programming language is known for its use in web development?",
+    "choices": [ "Java", "HTML", "C#", "Python", ".NET" ],
+    "answer": "html",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "choices": [ "Mars", "Jupiter", "Neptune", "Venus" ],
+    "answer": "jupiter",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of the following is a version control system?",
+    "choices": [ "Git", "SQL", "Node.js", "Angular", "NPM", "Visual Studio Code" ],
+    "answer": "git",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "choices": [ "Hyper Text Markup Language", "High-level Text Manipulation Language", "Home Tool Markup Language", "High Technology Maven List", "Hyper Titan Mercury Loop", "High Technology Markup Level" ],
+    "answer": "Hyper Text Markup Language",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of the following languages has the longest alphabet?",
+    "choices": [ "Russian", "Greek", "Chineese", "Arabic", "Japaneese" ],
+    "answer": "russian",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which app has the most total users?",
+    "choices": [ "Instagram", "Tiktok", "Snapchat", "Discord", "Pinterest", "Slack" ],
+    "answer": "instagram",
+    "difficulty": "hard"
+  },
+  {
+    "question": " Which Game of Thrones character is known as the Young Wolf?",
+    "choices": [ "Robb Stark", "Sansa Stark", "Viserys Targaryen", "Daenerys Targaryen", "Jaime Lannister " ],
+    "answer": "robb stark",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The Great Wall of China is visible from space.",
+    "choices": [ "True", "False" ],
+    "answer": "false",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Penguins are capable of flight.",
+    "choices": [ "True", "False" ],
+    "answer": "false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The human body has four lungs.",
+    "choices": [ "True", "False" ],
+    "answer": "false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The Nile River is the longest river in the world.",
+    "choices": [ "True", "False" ],
+    "answer": "true",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Diamonds are made from compressed coal.",
+    "choices": [ "True", "False" ],
+    "answer": "true",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The process by which plants make their food is called ________.",
+    "choices": [ "Respiration", "Digestion", "Photosynthesis", "Transpiration", "Evaporation" ],
+    "answer": "photosynthesis",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The Earth's largest ocean is the ______ Ocean.",
+    "choices": [ "Indian", "Atlantic", "Arctic", "Pacific", "Southern" ],
+    "answer": "pacific",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The study of stars and celestial objects is called _______.",
+    "choices": [ "Geology", "Meteorology", "Biology", "Astronomy", "Chemistry" ],
+    "answer": "astronomy",
+    "difficulty": "hard"
+  },
+  {
+    "question": "______ and oxygen are the two main components of water.",
+    "choices": [ "Nitrogen", "Carbon", "Chlorine", "Hydrogen", "Helium", "Sulfur" ],
+    "answer": "hydrogen",
+    "difficulty": "easy"
+  },
+  {
+    "question": "______ , red and blue are the primary colors.",
+    "choices": [ "Green", "Purple", "Black", "Yellow", "Gray", "White" ],
+    "answer": "yellow",
+    "difficulty": "easy"
+  },
+  {
+    "question": "______ is the only medium that sound waves can't travel through.",
+    "choices": [ "Solid", "Air", "Water", "Vacuum", "Gas", "Plasma" ],
+    "answer": "vacuum",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The process of a caterpillar turning into a butterfly is called metamorphosis.",
+    "choices": [ "True", "False" ],
+    "answer": "true",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The human body's powerhouse organelle is called the mitochondria.",
+    "choices": [ "True", "False" ],
+    "answer": "true",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The human body has more than 200 bones at birth.",
+    "choices": [ "True", "False" ],
+    "answer": "true",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Dolphins are mammals that breathe through gills.",
+    "choices": [ "True", "False" ],
+    "answer": "false",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Lightning never strikes the same place twice.",
+    "choices": [ "True", "False" ],
+    "answer": "false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The Declaration of Independence was signed on July 4, 1776.",
+    "choices": [ "True", "False" ],
+    "answer": "true",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Lightning never strikes the same place twice.",
+    "choices": [ "True", "False" ],
+    "answer": "false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "All insects have six legs.",
+    "choices": [ "True", "False" ],
+    "answer": "true",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Mount Everest is the tallest mountain in the world.",
+    "choices": [ "True", "False" ],
+    "answer": "true",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The Pacific Ocean is the largest ocean on Earth.",
+    "choices": [ "True", "False" ],
+    "answer": "true",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Oxygen is the most abundant element in the Earth's atmosphere.",
+    "choices": [ "True", "False" ],
+    "answer": "true",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The Nile River is the longest river in the world.",
+    "choices": [ "True", "False" ],
+    "answer": "false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The human body has four lungs.",
+    "choices": [ "True", "False" ],
+    "answer": "false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Mars is the only planet in the solar system with rings.",
+    "choices": [ "True", "False" ],
+    "answer": "false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Spiders are insects.",
+    "choices": [ "True", "False" ],
+    "answer": "false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "A centipede has one hundred legs.",
+    "choices": [ "True", "False" ],
+    "answer": "false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The speed of light in a vacuum is approximately __________ meters per second.",
+    "choices": [ "300,000", "200,000", "400,000", "500,000", "600,000" ],
+    "answer": "300,000",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A centipede has __________ legs.",
+    "choices": [ "100", "50", "200", "150", "75" ],
+    "answer": "100",
+    "difficulty": "easy"
+  },
+  {
+    "question": "__________ is known as the study of the structure of the Earth's crust.",
+    "choices": [ "Geology", "Biology", "Meteorology", "Astronomy", "Chemistry" ],
+    "answer": "Geology",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The largest moon of Jupiter is named __________.",
+    "choices": [ "Titan", "Io", "Ganymede", "Callisto", "Europa" ],
+    "answer": "Ganymede",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The __________ is the main organ responsible for filtering blood in the human body.",
+    "choices": [ "Liver", "Pancreas", "Kidney", "Heart", "Lung" ],
+    "answer": "Kidney",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The process by which plants make their food is called __________.",
+    "choices": [ "Respiration", "Photosynthesis", "Transpiration", "Germination", "Fermentation" ],
+    "answer": "Photosynthesis",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Sound travels faster through __________ than through air.",
+    "choices": [ "Water", "Vacuum", "Gas", "Solid", "Plasma" ],
+    "answer": "Solid",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The concept that 'for every action, there is an equal and opposite reaction' is a part of __________'s third law of motion.",
+    "choices": [ "Newton", "Einstein", "Galileo", "Tesla", "Hawking" ],
+    "answer": "Newton",
+    "difficulty": "easy"
+  },
+  {
+    "question": "__________ is the outermost layer of the Earth.",
+    "choices": [ "Mantle", "Crust", "Core", "Atmosphere", "Ionosphere" ],
+    "answer": "Crust",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The study of living organisms and their interactions with each other and their environment is known as __________.",
+    "choices": [ "Biology", "Geology", "Chemistry", "Physics", "Astronomy" ],
+    "answer": "Biology",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The chemical symbol 'Fe' represents which element?",
+    "choices": [ "Iron", "Silver", "Gold", "Copper" ],
+    "answer": "Iron",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "choices": [ "Mars", "Venus", "Jupiter", "Saturn" ],
+    "answer": "Mars",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which gas makes up the majority of Earth's atmosphere?",
+    "choices": [ "Oxygen", "Nitrogen", "Carbon dioxide", "Argon" ],
+    "answer": "Nitrogen",
+    "difficulty": "hard"
+  }
+
+]
+  
