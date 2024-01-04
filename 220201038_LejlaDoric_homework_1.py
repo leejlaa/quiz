@@ -50,6 +50,7 @@ def countdown_timer(seconds, question):
         print("\nCountdown stopped due to keyboard interrupt.")
         timer.join()  # Wait for the timer thread to finish
         return None
+    
 
 def save_data_on_exit(data):
     with open('resume_quiz.txt', 'w') as file:
@@ -147,8 +148,11 @@ def main():
             while(difficulty != 'easy' and difficulty != 'hard'):
                 print("Enter your desired difficulty level for the next round of quiz: \n 1. Easy \n 2. Hard \n")
                 difficulty = input("Your answer: ")
-            
-            amount = int(input("Enter the number of questions you want for this round: "))
+            try:
+                amount = int(input("Enter the number of questions you want for this round: "))
+            except ValueError:
+                print("Please enter a valid number of seconds.")
+                amount=3
             quiz = generate_quiz_questions(questions, difficulty,amount)
             
             

@@ -1,1 +1,14 @@
-0
+2
+The Declaration of Independence was signed on July 4, 1776. Your answer: true The correct answer: true
+
+The study of stars and celestial objects is called _______. Your answer: k The correct answer: astronomy
+
+The human body has four lungs. Your answer: true The correct answer: false
+
+The Great Wall of China is visible from space. Your answer: false The correct answer: false
+
+Which of the following is a version control system? Your answer: git The correct answer: git
+Question: The speed of light in a vacuum is approximately __________ meters per second.
+Your answer: No answer
+Correct answer: 300,000
+
